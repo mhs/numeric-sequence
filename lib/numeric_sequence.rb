@@ -1,4 +1,4 @@
-require 'generator'
+load 'generator.rb'
 
 class NumericSequence < Generator
   def initialize
